@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Brian Newsom
 
 # How many points have you earned?
 
@@ -10,7 +10,7 @@ write-your-name
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[Why Small Businesses Actually Have the Big-Data Advantage](http://www.entrepreneur.com/article/236766)
 
 # Splunk
 
