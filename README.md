@@ -10,17 +10,17 @@ write-your-name
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[Science's Big Data Problem](http://www.wired.com/2014/08/sciences-big-data-problem/)
 
 # Splunk
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/qb3d4Gn.png)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/QFnhXqt.png)
 
 # D3
 
