@@ -65,7 +65,7 @@ The 'type' argument is an accessor function that will parse the data and format 
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link]()
+[JSFiddle Link](http://jsfiddle.net/justinmcbride599z/6c45wvsu/1/)
 
 ### c.
 
