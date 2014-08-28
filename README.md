@@ -10,7 +10,7 @@ write-your-name
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[NSA makes Google-like search engine for Metadata](http://arstechnica.com/tech-policy/2014/08/nsa-built-google-like-interface-to-scan-850-billion-metadata-records/)
 
 # Splunk
 
