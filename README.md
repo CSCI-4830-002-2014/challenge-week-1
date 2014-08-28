@@ -59,19 +59,19 @@ This is an accessor which can allow us to change rows to objects and diffrent ty
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/wx3h8k48/)
+[JSFiddle Link](http://jsfiddle.net/w37b6twv/)
 
 ### b.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/fyLp1513/)
 
 ### c.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/2Lvmpugm/)
 
 ### d.
 
@@ -83,17 +83,17 @@ This is an accessor which can allow us to change rows to objects and diffrent ty
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/rxygsLa6/)
 
 ### f.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/0xvho1xb/)
 
 
 ### g.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/kkremks2/)
