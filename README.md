@@ -75,15 +75,15 @@ fill-in-your-answer
 
 ### d.
 
-![image](image.png?raw=true)
+![image](week1d3c2d.png)
 
 [JSFiddle Link](http://jsfiddle.net/justinmcbride599z/fbzwntjm/)
 
 ### e.
 
-![image](image.png?raw=true)
+![image](week1d3c2e.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/justinmcbride599z/26LfrLtu/1/)
 
 ### f.
 
