@@ -51,7 +51,7 @@ This is an accessor which can allow us to change rows to objects and diffrent ty
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/1yr28LLm/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
@@ -59,7 +59,7 @@ This is an accessor which can allow us to change rows to objects and diffrent ty
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/wx3h8k48/)
 
 ### b.
 
