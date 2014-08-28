@@ -36,15 +36,15 @@ write-your-name
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+If you changed the heading of TSV, we would need to change the "value" in d.value to "count"
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+The benefits of D3 over just an excel graph is that we can point the data source to a dynamic document and have the graph change everytime the page is reloaded. 
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+This is an accessor which can allow us to change rows to objects and diffrent types while parsing. 
 
 
 ## Challenge 1 (5 points)
