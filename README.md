@@ -36,15 +36,15 @@ write-your-name
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+Any time you access the data with the 'd' variable, you would need to change which member of that variable you're trying to reach. For example, d.firstname and d.count.
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+Using D3 gives us complete control over the graphical representations of the graph, in addition to the way in which the data is parsed. It may be more versatile in the long run, accepting various types of input and displaying them appropriately.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+The 'type' argument is an accessor function that will parse the data and format it in a way that makes it usable to our code.
 
 
 ## Challenge 1 (5 points)
