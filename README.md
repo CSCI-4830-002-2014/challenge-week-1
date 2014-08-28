@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Alexander Tsankov
 
 # How many points have you earned?
 
-0/100
+95/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
