@@ -16,11 +16,11 @@ Justin McBride
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](splunkcp1.png)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](splunkcp2.png)
 
 # D3
 
