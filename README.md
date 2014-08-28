@@ -16,21 +16,21 @@ Chris Wittenberg
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](SplunkCP1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](SplunkCP2.png?raw=true)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](D3CP1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](D3CP2.png?raw=true)
 
 ## Study Questions (5 points x 3 = 15 points)
 
@@ -49,7 +49,7 @@ It parses the data by type, which it infers from the headings
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](Challenge1.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/9vf2an1d/)
 
@@ -57,43 +57,43 @@ It parses the data by type, which it infers from the headings
 
 ### a. 
 
-![image](image.png?raw=true)
+![image](Challenge2a.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/8uhet3y7/)
 
 ### b.
 
-![image](image.png?raw=true)
+![image](Challenge2b.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/de84u5hf/)
 
 ### c.
 
-![image](image.png?raw=true)
+![image](Challenge2c.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/4a4n1kk4/)
 
 ### d.
 
-![image](image.png?raw=true)
+![image](Challenge2d.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/y5bttxz0/)
 
 ### e.
 
-![image](image.png?raw=true)
+![image](Challenge2e.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p8654mj6/)
 
 ### f.
 
-![image](image.png?raw=true)
+![image](Challenge2f.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/y3kuprt1/)
 
 
 ### g.
 
-![image](image.png?raw=true)
+![image](Challenge2g.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
