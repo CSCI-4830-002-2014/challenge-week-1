@@ -63,7 +63,7 @@ The 'type' argument is an accessor function that will parse the data and format 
 
 ### b.
 
-![image](image.png?raw=true)
+![image](week1d3c2b.png)
 
 [JSFiddle Link](http://jsfiddle.net/justinmcbride599z/6c45wvsu/1/)
 
