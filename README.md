@@ -26,11 +26,11 @@ write-your-name
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](week1d3cp1.png)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](week1d3cp2.png)
 
 ## Study Questions (5 points x 3 = 15 points)
 
@@ -49,35 +49,35 @@ fill-in-your-answer
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](week1d3c1.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/justinmcbride599z/cgck4was/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
 ### a. 
 
-![image](image.png?raw=true)
+![image](week1d3c2a.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/justinmcbride599z/6c45wvsu/)
 
 ### b.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link]()
 
 ### c.
 
-![image](image.png?raw=true)
+![image](week1d3c2c.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/justinmcbride599z/52m67jeu/)
 
 ### d.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/justinmcbride599z/fbzwntjm/)
 
 ### e.
 
