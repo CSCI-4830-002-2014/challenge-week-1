@@ -10,7 +10,7 @@ Dawson Botsford
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://hardware-beta.slashdot.org/story/14/08/25/0130226/dropbox-caught-between-warring-giants-amazon-and-google)
+[Dropbox Caught Between Warring Giants Amazon and Google](http://hardware-beta.slashdot.org/story/14/08/25/0130226/dropbox-caught-between-warring-giants-amazon-and-google)
 
 # Splunk
 
