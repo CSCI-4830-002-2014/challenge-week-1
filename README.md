@@ -94,6 +94,6 @@ fill-in-your-answer
 
 ### g.
 
-![image](image.png?raw=true)
+![image](week1d3c2g.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/justinmcbride599z/3fzt9k3u/2/)
