@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Niklas Fejes
 
 # How many points have you earned?
 
@@ -16,7 +16,7 @@ write-your-name
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](checkpoint1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
