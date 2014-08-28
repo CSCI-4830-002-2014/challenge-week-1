@@ -4,13 +4,13 @@ Justin McBride
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[Science’s Big Data Problem](http://www.wired.com/2014/08/sciences-big-data-problem/)
 
 # Splunk
 
