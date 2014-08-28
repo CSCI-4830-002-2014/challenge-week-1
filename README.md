@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Justin McBride
 
 # How many points have you earned?
 
