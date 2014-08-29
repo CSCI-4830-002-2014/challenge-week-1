@@ -96,4 +96,4 @@ It parses the data by type, which it infers from the headings
 
 ![image](Challenge2g.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/y3kuprt1/)
+[JSFiddle Link](http://jsfiddle.net/1k999go0/)
