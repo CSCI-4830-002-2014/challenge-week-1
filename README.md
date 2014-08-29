@@ -44,8 +44,7 @@ The benefit of using D3 is that it creates the graph automatically: if you need 
 
 ### Q3. (5 points)
 
-It parses the data by type, which it infers from the headings
-
+It allows the data to scale better. Without it, almost all of the bars are pretty much forced to the edge of the chart which renders the graph pretty much useless.
 
 ## Challenge 1 (5 points)
 
