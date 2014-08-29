@@ -1,10 +1,10 @@
 # Name
-# TODO: Answer questions, add JS screenshots.
+
 Brian Newsom
 
 # How many points have you earned?
 
-40/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -36,20 +36,26 @@ Brian Newsom
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+The header is changed here.  D3 would have to be altered to interpret the columns correctly.  In this code, only the second column is used, so all usages of "value" should be changed to "count".
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+D3 is much more friendly for a web UI.  From excel (I believe) you would have to export the chart each time something is changed.  D3 is more dynamic in this case.  Additionally, in certain cases it provides advantages over excel in that adding data can be done without parsing the whole document but instead appending what does not already exist.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
-
+In the given code, the type parameter specifies a callback function that allows you to specify how the data is interpreted.  Here, the data is forced to be a number using the code: 
+```
+function type(d) {
+  d.value = +d.population; // coerce to number
+  return d;
+}
+```
+so that it is not interpreted as a string.
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](fiddle3.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/53e9ppcv/3/)
 
@@ -57,43 +63,43 @@ fill-in-your-answer
 
 ### a. 
 
-![image](image.png?raw=true)
+![image](fiddle4.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/53e9ppcv/4/)
 
 ### b.
 
-![image](image.png?raw=true)
+![image](fiddle5.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/53e9ppcv/5/)
 
 ### c.
 
-![image](image.png?raw=true)
+![image](fiddle6.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/53e9ppcv/6/)
 
 ### d.
 
-![image](image.png?raw=true)
+![image](fiddle7.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/53e9ppcv/7/)
 
 ### e.
 
-![image](image.png?raw=true)
+![image](fiddle8.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/53e9ppcv/8/)
 
 ### f.
 
-![image](image.png?raw=true)
+![image](fiddle9.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/53e9ppcv/9/)
 
 
 ### g.
 
-![image](image.png?raw=true)
+![image](fiddle10.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/53e9ppcv/10/)
