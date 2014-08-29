@@ -89,11 +89,11 @@ This is an accessor which can allow us to change rows to objects and diffrent ty
 
 [Imgur](http://i.imgur.com/W9g1Ocs)
 
-[JSFiddle Link](http://jsfiddle.net/0xvho1xb/)
+[JSFiddle Link](http://jsfiddle.net/bqvhoo81/)
 
 
 ### g.
 
 [Imgur](http://i.imgur.com/3gyQgAF)
 
-[JSFiddle Link](http://jsfiddle.net/kkremks2/)
+[JSFiddle Link](http://jsfiddle.net/seh4kdvf/)
