@@ -44,7 +44,7 @@ The benefits of D3 over just an excel graph is that we can point the data source
 
 ### Q3. (5 points)
 
-This is an accessor which can allow us to change rows to objects and diffrent types while parsing. 
+This is an accessor which can allow us to change types while parsing. A possible use for this might be transforming rows into individual objects.  
 
 
 ## Challenge 1 (5 points)
