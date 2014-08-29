@@ -16,21 +16,21 @@ Alexander Tsankov
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/P2XwwVT)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/raAgi2y)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/4bIje8m)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/0X1Yhs5)
 
 ## Study Questions (5 points x 3 = 15 points)
 
@@ -49,7 +49,7 @@ This is an accessor which can allow us to change rows to objects and diffrent ty
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/P7vjg9A)
 
 [JSFiddle Link](http://jsfiddle.net/1yr28LLm/)
 
@@ -57,19 +57,19 @@ This is an accessor which can allow us to change rows to objects and diffrent ty
 
 ### a. 
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/dK0bj2B)
 
 [JSFiddle Link](http://jsfiddle.net/w37b6twv/)
 
 ### b.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/1JbY9dX)
 
 [JSFiddle Link](http://jsfiddle.net/fyLp1513/)
 
 ### c.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/fqCNfi2)
 
 [JSFiddle Link](http://jsfiddle.net/2Lvmpugm/)
 
@@ -81,19 +81,19 @@ This is an accessor which can allow us to change rows to objects and diffrent ty
 
 ### e.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/tQSFcOJ)
 
 [JSFiddle Link](http://jsfiddle.net/rxygsLa6/)
 
 ### f.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/W9g1Ocs)
 
 [JSFiddle Link](http://jsfiddle.net/0xvho1xb/)
 
 
 ### g.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/3gyQgAF)
 
 [JSFiddle Link](http://jsfiddle.net/kkremks2/)
