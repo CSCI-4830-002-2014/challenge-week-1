@@ -16,7 +16,7 @@ Dawson Botsford
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/G92bxld)
 
 ## Checkpoint 2 (10 points)
 
