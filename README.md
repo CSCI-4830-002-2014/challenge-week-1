@@ -1,77 +1,77 @@
 # Name
 
-write-your-name
+Alexander Tsankov
 
 # How many points have you earned?
 
-0/100
+95/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[NSA makes Google-like search engine for Metadata](http://arstechnica.com/tech-policy/2014/08/nsa-built-google-like-interface-to-scan-850-billion-metadata-records/)
 
 # Splunk
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/P2XwwVT)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/raAgi2y)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/4bIje8m)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/0X1Yhs5)
 
 ## Study Questions (5 points x 3 = 15 points)
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+If you changed the heading of TSV, we would need to change the "value" in d.value to "count"
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+The benefits of D3 over just an excel graph is that we can point the data source to a dynamic document and have the graph change everytime the page is reloaded. 
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+This is an accessor which can allow us to change types while parsing. A possible use for this might be transforming rows into individual objects.  
 
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/P7vjg9A)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/1yr28LLm/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
 ### a. 
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/dK0bj2B)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/w37b6twv/)
 
 ### b.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/1JbY9dX)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/fyLp1513/)
 
 ### c.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/fqCNfi2)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/2Lvmpugm/)
 
 ### d.
 
@@ -81,19 +81,19 @@ fill-in-your-answer
 
 ### e.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/tQSFcOJ)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/qk64jeev/)
 
 ### f.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/W9g1Ocs)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/bqvhoo81/)
 
 
 ### g.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/3gyQgAF)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/seh4kdvf/)
