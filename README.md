@@ -4,7 +4,7 @@ Logan Bates
 
 # How many points have you earned?
 
-0/100
+15/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -16,7 +16,7 @@ https://jawbone.com/blog/napa-earthquake-effect-on-sleep/
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](Checkpoint1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
