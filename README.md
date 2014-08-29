@@ -1,10 +1,10 @@
 # Name
-
+# TODO: Answer questions, add JS screenshots.
 Brian Newsom
 
 # How many points have you earned?
 
-0/100
+40/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -16,21 +16,21 @@ Brian Newsom
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](Checkpoint1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](Checkpoint2.png?raw=true)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](Checkpoint3.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](Checkpoint4.png?raw=true)
 
 ## Study Questions (5 points x 3 = 15 points)
 
@@ -51,7 +51,7 @@ fill-in-your-answer
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/53e9ppcv/3/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
@@ -59,41 +59,41 @@ fill-in-your-answer
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/53e9ppcv/4/)
 
 ### b.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/53e9ppcv/5/)
 
 ### c.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/53e9ppcv/6/)
 
 ### d.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/53e9ppcv/7/)
 
 ### e.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/53e9ppcv/8/)
 
 ### f.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/53e9ppcv/9/)
 
 
 ### g.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/53e9ppcv/10/)
