@@ -66,21 +66,21 @@ This second value in the ".tsv" function call is for an [accessor function](http
 
 ### b.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/KtNSlec.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/L7o0fsas/2/)
 
 ### c.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/GLtuWbY.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/L7o0fsas/3/)
 
 ### d.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/4xBLb8x.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/L7o0fsas/4/)
 
 ### e.
 
