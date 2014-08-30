@@ -1,6 +1,6 @@
 # Name
 
-Joshua Fergee
+Joshua Ferge
 
 # How many points have you earned?
 
