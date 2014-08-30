@@ -4,7 +4,7 @@ Logan Bates
 
 # How many points have you earned?
 
-15/100
+25/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
