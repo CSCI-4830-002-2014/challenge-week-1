@@ -52,17 +52,17 @@ This second value in the ".tsv" function call is for an [accessor function](http
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/6blkYp3.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/L7o0fsas/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
 ### a. 
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/KfjLTrT.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/L7o0fsas/1/h)
 
 ### b.
 
