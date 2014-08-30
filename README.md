@@ -44,7 +44,7 @@ D3 is superior to Excel in many ways. Just a few being that we can use the power
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+This second value in the ".tsv" function call is for an [accessor function](https://github.com/mbostock/d3/wiki/CSV#tsv). If we look at the bottom of my code, you see the function called "type". This function converts the inputted string to a number. This number conversion is not necessary, but it is very important if we want to do any type of manipulation or sorting, because we need JS to recognize these values as numbers in order to find things like max, sorting, or adding of any kind. 
 
 
 ## Challenge 1 (5 points)
