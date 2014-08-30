@@ -30,7 +30,7 @@ Dawson Botsford
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/I05OXxY.png)
 
 ## Study Questions (5 points x 3 = 15 points)
 
