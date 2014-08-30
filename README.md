@@ -20,7 +20,7 @@ https://jawbone.com/blog/napa-earthquake-effect-on-sleep/
 
 ## Checkpoint 2 (10 points)
 
-![image](Checkpoint2Splunk?raw=true)
+![image](Checkpoint2Splunk.png?raw=true)
 
 # D3
 
