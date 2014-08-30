@@ -36,11 +36,11 @@ Dawson Botsford
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+If we change the name of the headings, no chart is rendered due to naming issues. In order to fix this and create a graph, we need to change all occurances of "value" to "count" within the JavaScript code. This is because their is no longer a column titled "value" to reference.
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+D3 is superior to Excel in many ways. Just a few being that we can use the power of HTML, CSS, and SVG to create more unique looking displays. In addition to simple aesthetic differences, D3 allows for web integration in ways that Excel never can since it is a Windows proprietary software. Another great reason to stick with D3 from their GitHub wiki: "D3 is tested against Firefox, Chrome, Safari, Opera, IE9+, Android and iOS." How can Excel even come close to that!?
 
 ### Q3. (5 points)
 
