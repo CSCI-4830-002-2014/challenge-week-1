@@ -1,99 +1,99 @@
 # Name
 
-write-your-name
+Joshua Fergee
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[Google unveils Mesa - Geo-Replicated Near-Realtime Scalable Data Warehouse](http://www.infoq.com/news/2014/08/google-data-warehouse-mesa)
 
 # Splunk
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/cmpvAML.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Z0hmafJ.png?raw=true)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/FsyaquZ.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/LmRVmNH.png?raw=true)
 
 ## Study Questions (5 points x 3 = 15 points)
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+you would need to change the uses of .value to .count
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+Since it's in D3 it is avaliable as a web page, as well you don't need to redo anything if theres more data, the page will update automatically if you change the data file.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+d3.tsv doesn't know what type the data is, so you pass in a type function that converts the data into a number.
 
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/u80wbpq.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/8qdz0eb8/1/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
 ### a. 
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/bTv3c9w.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/8qdz0eb8/2/)
 
 ### b.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/m4BqCdv.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/8qdz0eb8/4/))
 
 ### c.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/LG92slf.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/8qdz0eb8/6/)
 
 ### d.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/qfmIBq7.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/8qdz0eb8/8/)
 
 ### e.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/EoCFA5A.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/8qdz0eb8/10/)
 
 ### f.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/qQdZJaH.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/8qdz0eb8/12/)
 
 
 ### g.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/i1XYyno.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/8qdz0eb8/14/)
