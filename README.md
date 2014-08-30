@@ -20,7 +20,7 @@ Dawson Botsford
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/xlzjgdB.png)
 
 # D3
 
