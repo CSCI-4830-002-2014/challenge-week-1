@@ -35,7 +35,7 @@ Jake Charland
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+If you were to change the headers of the data you would have to change the line return d.value to reflect the new header.
 
 ### Q2. (5 points)
 
