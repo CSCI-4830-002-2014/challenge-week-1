@@ -40,11 +40,11 @@ Each data point is now an object rather than a number and the data heading repre
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+One of the primary benefits of using D3 over other tools is that it allows for visualizations to be dynamic, where tools such as Excel create static graphs. This is powerful because, once a visualization for a dataset is created (assuming the data is hosted online), new data can be added to the dataset at a later date and the visualization will automatically reflect the change.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+The second argument of d3.tsv is a property accessor. In this example, we define a method type() to coerce the data type from the file we're reading to be a number since it's passed in as a string.
 
 
 ## Challenge 1 (5 points)
