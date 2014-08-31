@@ -26,7 +26,7 @@ write-your-name
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/8YHNEHe.png)
 
 ## Checkpoint 2 (10 points)
 
