@@ -56,43 +56,42 @@ The point of the type argument is it is a function to the tsv method that conver
 
 ### a. 
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/qNwniLs.png?1)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p5hnoopq/23/)
 
 ### b.
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/ZgROCBA.png?1)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p5hnoopq/24/)
 
 ### c.
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/STxu3LZ.png?1)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p5hnoopq/26/)
 
 ### d.
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/wlPtd5E.png?1)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p5hnoopq/27/)
 
 ### e.
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/vEFQS3M.png?1)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p5hnoopq/28/)
 
 ### f.
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/UFdgCMD.png?1)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p5hnoopq/29/)
 
 
 ### g.
 
-![image](image.png?raw=true)
-
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+![Imgur](http://i.imgur.com/GdesY9I.png?1)
+[JSFiddle Link](http://jsfiddle.net/p5hnoopq/30/)
