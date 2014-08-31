@@ -16,7 +16,7 @@ Daniel Nolan
 
 ## Checkpoint 1 (10 points)
 
-![Picture of Checkpoint Complete](file:///C:/Users/Daniel/Downloads/CSCI4830_Week1_Splunk3.htm#)
+![image](file:///C:/Users/Daniel/Downloads/CSCI4830_Week1_Splunk3.htm#)
 
 ## Checkpoint 2 (10 points)
 
