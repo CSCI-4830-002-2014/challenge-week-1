@@ -63,9 +63,9 @@ As mentioned in the tutorial, TSV library is not smart enough to automatically d
 
 ### b.
 
-![image](image.png?raw=true)
+![image](http://imgur.com/iSqvEQG.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/peymanmo/v6n7txsv/3/)
 
 ### c.
 
