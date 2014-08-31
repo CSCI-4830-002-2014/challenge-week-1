@@ -43,7 +43,7 @@ The advantage of using d3 instead of excel once you get the data into javascript
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+The point of the type argument is it is a function to the tsv method that converts the data to a more suitable data type that allows tsv to work with it.
 
 
 ## Challenge 1 (5 points)
