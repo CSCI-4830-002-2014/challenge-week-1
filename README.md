@@ -10,7 +10,7 @@ Daniel Nolan
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[Rodney Brooks at Solid: Why machines should surprise us and why we shouldn’t be scared](http://whatsthebigdata.com/2014/05/26/rodney-brooks-at-solid-why-machines-should-surprise-us-and-why-we-shouldnt-be-sacred/)
 
 # Splunk
 
