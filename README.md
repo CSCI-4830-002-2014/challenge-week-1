@@ -57,7 +57,7 @@ As mentioned in the tutorial, TSV library is not smart enough to automatically d
 
 ### a. 
 
-![image](http://imgur.com/szIvPgW)
+![image](http://imgur.com/szIvPgW.png)
 
 [JSFiddle Link](http://jsfiddle.net/peymanmo/v6n7txsv/2/)
 
