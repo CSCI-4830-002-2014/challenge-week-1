@@ -10,7 +10,7 @@ Peyman Mortazavi
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[title-of-the-article](http://www.forbes.com/sites/davefeinleib/2012/10/08/big-data-and-nosql-five-key-insights/)
 
 # Splunk
 
