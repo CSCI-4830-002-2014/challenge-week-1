@@ -71,7 +71,7 @@ perform several actions on one selection with clean code. D3 also makes it easy 
 
 ### c.
 
-![image](Challenge2c.png?raw=true)
+![image](Challenge2cV2.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/LoganBates/4dgxjxhz/)
 
