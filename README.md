@@ -16,7 +16,7 @@ Jake Charland
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/E365b1K.png?1)
 
 ## Checkpoint 2 (10 points)
 
