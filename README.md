@@ -30,7 +30,7 @@ write-your-name
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/eZ9neia.png)
 
 ## Study Questions (5 points x 3 = 15 points)
 
