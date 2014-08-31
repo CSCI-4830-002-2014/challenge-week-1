@@ -36,7 +36,7 @@ write-your-name
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+Each data point is now an object rather than a number and the data heading represents the key for each key:value pair in the object. As a result, changing the heading in the data will break the javascript code since the data is no longer mapped to the key it was expecting. Changing the heading 'value' to 'count' would require that you change all places in the code referencing 'd.value' to 'd.count'.
 
 ### Q2. (5 points)
 
