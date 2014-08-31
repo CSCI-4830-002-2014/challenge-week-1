@@ -40,11 +40,11 @@ In function "type", where we convert value to a more suitable type, we should ch
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+It might be a hassle to create a super simple bar chart with D3. BUT, we get much more flexibility if we do it with D3. We can read data from remote servers, we have more control over the shapes and how they're drawn with D3 and also it's available in a simple java script file. you can run it locally or host it and no one needs any software to see it. For instance, you can host the javascript for this project so everyone can see it online and then when you change the data source, it'll automatically update.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+As mentioned in the tutorial, TSV library is not smart enough to automatically detect and convert types. Thus, we need to have a function that does it for us. That is, to convert it to a more suitable type. Also, it has not been mentioned in the tutorial, but we can apply some sort of Model/View pattern where you can build your models from original data and use your own model instead. Couple of examples, changing a field's name, adding units to numbers, formatting strings (like 3000 to $3,000), etc.
 
 
 ## Challenge 1 (5 points)
