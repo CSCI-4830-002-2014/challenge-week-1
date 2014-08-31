@@ -51,7 +51,7 @@ The second argument of d3.tsv is a property accessor. In this example, we define
 
 ![image](http://i.imgur.com/BQOd4wQ.png)
 
-[JSFiddle Link]http://jsfiddle.net/Irfann/haad34wa/)
+[JSFiddle Link](http://jsfiddle.net/Irfann/haad34wa/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
@@ -69,9 +69,9 @@ The second argument of d3.tsv is a property accessor. In this example, we define
 
 ### c.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/LjJNBE6.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/Irfann/haad34wa/3/)
 
 ### d.
 
