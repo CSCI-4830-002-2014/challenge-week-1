@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alexia Newgord
 
 # How many points have you earned?
 
