@@ -16,7 +16,7 @@ Daniel Nolan
 
 ## Checkpoint 1 (10 points)
 
-![file:///C:/Users/Daniel/Downloads/CSCI4830_Week1_Splunk3.htm#](image.png?raw=true)
+![Data Indexed!](http://daniel-pc:8000/en-US/manager/launcher/quickstart/-/datacomplete?breadcrumbs=Settings|%2Fmanager%2Flauncher%2F%09Add%20data|%2Fmanager%2Flauncher%2Fadddata)
 
 ## Checkpoint 2 (10 points)
 
