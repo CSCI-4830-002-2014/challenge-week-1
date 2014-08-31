@@ -26,11 +26,11 @@ Alexia Newgord
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![d3checkpoint1](d3checkpoint1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![d3checkpoint2](d3checkpoint2.png?raw=true)
 
 ## Study Questions (5 points x 3 = 15 points)
 
