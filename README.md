@@ -82,7 +82,7 @@ Data in TSV and CSV files are recognized as strings by default. The type argumen
 
 ![image](http://i.imgur.com/IKMjEHn.png)
 
-[image](http://jsfiddle.net/8mb76ww8/7/)
+[JSFiddle Link](http://jsfiddle.net/8mb76ww8/7/)
 
 ### f.
 
