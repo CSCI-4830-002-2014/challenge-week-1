@@ -39,7 +39,7 @@ If you were to change the headers of the data you would have to change the line 
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+The advantage of using d3 instead of excel once you get the data into javascript you can manipulate it to do whatever you want via javascript. This gives you full control over the data that excel can't offer you.
 
 ### Q3. (5 points)
 
