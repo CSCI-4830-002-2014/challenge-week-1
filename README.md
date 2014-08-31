@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Daniel Nolan
 
 # How many points have you earned?
 
@@ -16,7 +16,7 @@ write-your-name
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![file:///C:/Users/Daniel/Downloads/CSCI4830_Week1_Splunk3.htm#](image.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
