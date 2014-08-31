@@ -65,7 +65,7 @@ The second "type" argument specifies a function that is passed in in order to de
 
 ![challenge2b](challenge2b.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/alne4294/a7vwbfdg/)
 
 ### c.
 
