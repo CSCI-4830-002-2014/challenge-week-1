@@ -51,7 +51,7 @@ As mentioned in the tutorial, TSV library is not smart enough to automatically d
 
 ![image](http://i.imgur.com/ZZqEO9J.png)
 
-[JSFiddle Link](http://jsfiddle.net/peymanmo/v6n7txsv/)
+[JSFiddle Link](http://jsfiddle.net/peymanmo/v6n7txsv/1)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
