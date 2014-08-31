@@ -36,22 +36,22 @@ Alexia Newgord
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+The bar graphs will not show with the provided tsv because the javascript is trying to access the heading using the incorrect variable name.  If we rename all instances of "value" to "count", however, the code should be able to parse and display the chart correctly.
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+D3 is know for making rendering faster and has notorious potential for aesthetic displays.  Two advantages of D3 is that it supports SVG and can be quite interactive. Excel is a sufficient "entry-level" tool that can accomplish relatively simple or "every-day" internal visualizations.  However, is has limited available colors, lines, and styles.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+The second "type" argument specifies a function that is passed in in order to detect and convert the given .tsv types.  This is needed because d3.tsv is incapable of detecting the types automatically.
 
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![challenge1](challenge1.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/alne4294/yow8n2tj/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
