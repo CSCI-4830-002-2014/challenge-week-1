@@ -20,23 +20,23 @@ Peyman Mortazavi
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/d8qSIMV.jpg)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/0hk3KNY.jpg)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/YIq56Xj.png)
 
 ## Study Questions (5 points x 3 = 15 points)
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+In function "type", where we convert value to a more suitable type, we should change the line "d.value = +d.value" to "d.value = +d.count"
 
 ### Q2. (5 points)
 
