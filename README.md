@@ -57,13 +57,13 @@ The second "type" argument specifies a function that is passed in in order to de
 
 ### a. 
 
-![image](image.png?raw=true)
+![challenge2a](challenge2a.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/alne4294/x5331q0e/)
 
 ### b.
 
-![image](image.png?raw=true)
+![challenge2b](challenge2b.png?raw=true)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
