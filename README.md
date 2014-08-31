@@ -49,7 +49,7 @@ As mentioned in the tutorial, TSV library is not smart enough to automatically d
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ZZqEO9J.png)
 
 [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
