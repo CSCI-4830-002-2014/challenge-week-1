@@ -4,23 +4,23 @@ Alexia Newgord
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[Can-Big-Data-Improve-Medical-Diagnoses?](http://blogs.wsj.com/digits/2014/08/22/can-big-data-improve-medical-diagnoses/?KEYWORDS=big+data)
 
 # Splunk
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![checkpoint1](checkpoint1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![checkpoint2](checkpoint2.png?raw=true)
 
 # D3
 
