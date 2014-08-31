@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Peyman Mortazavi
 
 # How many points have you earned?
 
@@ -16,7 +16,7 @@ write-your-name
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/XgW9TDO.jpg)
 
 ## Checkpoint 2 (10 points)
 
