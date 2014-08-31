@@ -10,7 +10,7 @@ Jake Charland
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[Five Factors In Building Giants Of The Big Data Era](http://techcrunch.com/2014/08/30/five-factors-in-building-giants-of-the-big-data-era/)
 
 # Splunk
 
