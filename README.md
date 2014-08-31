@@ -29,7 +29,7 @@ Jake Charland
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/jTuZVE7.png?1)
 
 ## Study Questions (5 points x 3 = 15 points)
 
