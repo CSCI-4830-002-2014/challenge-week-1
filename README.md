@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Irfan Nadiadi
 
 # How many points have you earned?
 
@@ -57,9 +57,9 @@ The second argument of d3.tsv is a property accessor. In this example, we define
 
 ### a. 
 
-![image](image.png?raw=true)
+![image](http://imgur.com/c7ttWY1)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/Irfann/haad34wa/1/)
 
 ### b.
 
