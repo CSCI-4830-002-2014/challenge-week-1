@@ -16,7 +16,7 @@ Peyman Mortazavi
 
 ## Checkpoint 1 (10 points)
 
-[Imgur](http://i.imgur.com/XgW9TDO.jpg)
+![Image](http://i.imgur.com/XgW9TDO.jpg)
 
 ## Checkpoint 2 (10 points)
 
