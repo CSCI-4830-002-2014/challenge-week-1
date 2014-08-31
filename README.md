@@ -4,7 +4,7 @@ Logan Bates
 
 # How many points have you earned?
 
-45/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -96,6 +96,6 @@ perform several actions on one selection with clean code. D3 also makes it easy 
 
 ### g.
 
-![image](image.png?raw=true)
+![image](Challenge2g.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/LoganBates/zhrr24ux/)
