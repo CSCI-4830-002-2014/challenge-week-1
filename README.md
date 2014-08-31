@@ -87,13 +87,13 @@ As mentioned in the tutorial, TSV library is not smart enough to automatically d
 
 ### f.
 
-![image](image.png?raw=true)
+![image](http://imgur.com/gsuduY0.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/peymanmo/v6n7txsv/8/)
 
 
 ### g.
 
-![image](image.png?raw=true)
+![image](http://imgur.com/g0093YC.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/peymanmo/v6n7txsv/9/)
