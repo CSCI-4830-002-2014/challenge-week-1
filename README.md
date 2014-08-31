@@ -57,15 +57,15 @@ The second argument of d3.tsv is a property accessor. In this example, we define
 
 ### a. 
 
-![image](http://imgur.com/c7ttWY1)
+![image](http://i.imgur.com/c7ttWY1.png)
 
 [JSFiddle Link](http://jsfiddle.net/Irfann/haad34wa/1/)
 
 ### b.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/a5LZ34b.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/Irfann/haad34wa/2/)
 
 ### c.
 
