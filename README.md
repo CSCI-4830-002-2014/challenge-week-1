@@ -48,9 +48,9 @@ The point of the type argument is it is a function to the tsv method that conver
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/IGhDTaF.png?1)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p5hnoopq/22/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
