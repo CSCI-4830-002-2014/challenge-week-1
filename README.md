@@ -69,27 +69,27 @@ The second "type" argument specifies a function that is passed in in order to de
 
 ### c.
 
-![image](image.png?raw=true)
+![challenge2c](challenge2c.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/alne4294/yykzLntx/)
 
 ### d.
 
-![image](image.png?raw=true)
+![challenge2d](challenge2d?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/alne4294/yykzLntx/)
 
 ### e.
 
-![image](image.png?raw=true)
+![challenge2e](challenge2e.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/alne4294/gvqfyfws/)
 
 ### f.
 
-![image](image.png?raw=true)
+![challenge2f](challenge2f.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/alne4294/4soea9rp/)
 
 
 ### g.
