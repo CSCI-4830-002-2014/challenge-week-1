@@ -16,7 +16,7 @@ Daniel Nolan
 
 ## Checkpoint 1 (10 points)
 
-![http://imgur.com/mC2uo08](image.png?raw=true)
+http://imgur.com/mC2uo08
 
 ## Checkpoint 2 (10 points)
 
