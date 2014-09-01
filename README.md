@@ -4,19 +4,17 @@ Adrian Chen
 
 # How many points have you earned?
 
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+95/100
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://www.spiegel.de/international/zeitgeist/scientist-alex-pentland-argues-big-data-can-be-used-to-improve-society-a-970443.html)
+[Can We Use Big Data to Make Society Better?](http://www.spiegel.de/international/zeitgeist/scientist-alex-pentland-argues-big-data-can-be-used-to-improve-society-a-970443.html)
 
 # Splunk
 
 ## Checkpoint 1 (10 points)
 
-![image](http://imgur.com/fZLFIQx.PNG)
+![image](http://imgur.com/fZLFIQx.png)
 
 ## Checkpoint 2 (10 points)
 
