@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Manpreet Singh
 
 # How many points have you earned?
 
@@ -10,7 +10,7 @@ write-your-name
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[title-of-the-article]http://venturebeat.com/2014/02/09/the-real-promise-of-big-data-its-changing-the-whole-way-humans-will-solve-problems/
 
 # Splunk
 
