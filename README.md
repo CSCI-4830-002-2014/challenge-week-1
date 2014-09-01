@@ -4,7 +4,7 @@ Niklas Fejes
 
 # How many points have you earned?
 
-0/100
+20/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -20,7 +20,7 @@ Niklas Fejes
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](checkpoint2.png?raw=true)
 
 # D3
 
