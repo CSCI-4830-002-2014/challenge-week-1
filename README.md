@@ -10,7 +10,7 @@ Manpreet Singh
 
 # Show and tell (5 points)
 
-[title-of-the-article]http://venturebeat.com/2014/02/09/the-real-promise-of-big-data-its-changing-the-whole-way-humans-will-solve-problems/
+The real promise of big data: It’s changing the whole way humans will solve problems http://venturebeat.com/2014/02/09/the-real-promise-of-big-data-its-changing-the-whole-way-humans-will-solve-problems/
 
 # Splunk
 
