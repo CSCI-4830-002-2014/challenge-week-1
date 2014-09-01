@@ -16,7 +16,7 @@ The real promise of big data: It’s changing the whole way humans will solve pr
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/aZar6qq)
 
 ## Checkpoint 2 (10 points)
 
