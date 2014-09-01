@@ -81,9 +81,9 @@ http://jsfiddle.net/msg425/41Labsxj/8/
 
 ### e.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/qomyPKb.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/10/
 
 ### f.
 
