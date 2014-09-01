@@ -18,13 +18,13 @@ Adrian Chen
 
 ## Checkpoint 2 (10 points)
 
-![image](http://imgur.com/4cTaE6J.PNG)
+![image](http://imgur.com/4cTaE6J.png)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](http://imgur.com/4zgIx4n.PNG)
+![image](http://imgur.com/4zgIx4n.png)
 
 ## Checkpoint 2 (10 points)
 
@@ -47,7 +47,7 @@ The type function assures that the numbers are being read in as numbers as inste
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/gqy2OnQ.png)
 
 [JSFiddle Link](http://jsfiddle.net/11s7t81e/4/)
 
@@ -55,37 +55,37 @@ The type function assures that the numbers are being read in as numbers as inste
 
 ### a. 
 
-![image](image.png?raw=true)
+![image](http://imgur.com/YzNBVNf.png)
 
 [JSFiddle Link](http://jsfiddle.net/11s7t81e/5/)
 
 ### b.
 
-![image](image.png?raw=true)
+![image](http://imgur.com/hqMXJJn.png)
 
 [JSFiddle Link](http://jsfiddle.net/11s7t81e/6/)
 
 ### c.
 
-![image](image.png?raw=true)
+![image](http://imgur.com/DGzN59H.png)
 
 [JSFiddle Link](http://jsfiddle.net/ufd0yh76/)
 
 ### d.
 
-![image](image.png?raw=true)
+![image](http://imgur.com/WwPqoT0.png)
 
 [JSFiddle Link](http://jsfiddle.net/ufd0yh76/1/)
 
 ### e.
 
-![image](image.png?raw=true)
+![image](http://imgur.com/WwPqoT0.png)
 
 [JSFiddle Link](http://jsfiddle.net/ufd0yh76/2/)
 
 ### f.
 
-![image](image.png?raw=true)
+![image](http://imgur.com/qtdgzO3.png)
 
 [JSFiddle Link](http://jsfiddle.net/Lggjxd45/)
 
