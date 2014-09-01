@@ -4,7 +4,7 @@ Niklas Fejes
 
 # How many points have you earned?
 
-20/100
+40/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -26,11 +26,11 @@ Niklas Fejes
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](d3checkpoint1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](d3checkpoint2.png?raw=true)
 
 ## Study Questions (5 points x 3 = 15 points)
 
