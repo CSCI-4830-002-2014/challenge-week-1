@@ -16,21 +16,21 @@ Daniel Nolan
 
 ## Checkpoint 1 (10 points)
 
-![Data Indexed!](http://daniel-pc:8000/en-US/manager/launcher/quickstart/-/datacomplete?breadcrumbs=Settings|%2Fmanager%2Flauncher%2F%09Add%20data|%2Fmanager%2Flauncher%2Fadddata)
+![Data Indexed!](http://imgur.com/mC2uo08)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![Splunk CP 2](http://imgur.com/uMgA59z)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/dGtbNPi)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/GDJw5Rp)
 
 ## Study Questions (5 points x 3 = 15 points)
 
