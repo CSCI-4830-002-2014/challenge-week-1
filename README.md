@@ -45,55 +45,50 @@ With D3 we have full control over what is displayed and not. With D3 we can also
 ### Q3. (5 points)
 
 The `type` argument is a function that modifies the data before it is used. In this code it makes sure that the property `value` is a number and not a string.
+This is important because operations on the variables (like `+` and `max()`) give different results depending on the variable type.
 
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/jpn3tzms/0/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
-### a. 
+(Since the instructions only says record the URLs, the images are not included)
 
-![image](image.png?raw=true)
+### a. (Thinner bars)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
-### b.
+[JSFiddle Link](http://jsfiddle.net/jpn3tzms/1/)
 
-![image](image.png?raw=true)
+### b. (Thinner, spaced out)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
-### c.
+[JSFiddle Link](http://jsfiddle.net/jpn3tzms/2/)
 
-![image](image.png?raw=true)
+### c. (Right align text)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
-### d.
+[JSFiddle Link](http://jsfiddle.net/jpn3tzms/3/)
 
-![image](image.png?raw=true)
+### d. (Right align bars)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
-### e.
+[JSFiddle Link](http://jsfiddle.net/jpn3tzms/4/)
 
-![image](image.png?raw=true)
+### e. (Background)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
-### f.
+[JSFiddle Link](http://jsfiddle.net/jpn3tzms/5/)
 
-![image](image.png?raw=true)
+### f. (Income)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
+[JSFiddle Link](http://jsfiddle.net/jpn3tzms/6/)
 
 ### g.
 
-![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/jpn3tzms/7/)
