@@ -16,21 +16,21 @@ Daniel Nolan
 
 ## Checkpoint 1 (10 points)
 
-![Data Indexed!](http://imgur.com/mC2uo08)
+![http://imgur.com/mC2uo08](http://imgur.com/mC2uo08)
 
 ## Checkpoint 2 (10 points)
 
-![Splunk CP 2](http://imgur.com/uMgA59z)
+![ttp://imgur.com/uMgA59z](http://imgur.com/uMgA59z)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](http://imgur.com/dGtbNPi)
+![http://imgur.com/dGtbNPi](http://imgur.com/dGtbNPi)
 
 ## Checkpoint 2 (10 points)
 
-![image](http://imgur.com/GDJw5Rp)
+![http://imgur.com/GDJw5Rp](http://imgur.com/GDJw5Rp)
 
 ## Study Questions (5 points x 3 = 15 points)
 
