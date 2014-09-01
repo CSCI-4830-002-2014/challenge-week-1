@@ -4,11 +4,11 @@ Niklas Fejes
 
 # How many points have you earned?
 
-95/100
+100/100
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[You May Not Need Big Data After All](http://hbr.org/2013/12/you-may-not-need-big-data-after-all)
 
 # Splunk
 
