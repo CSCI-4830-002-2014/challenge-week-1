@@ -75,9 +75,9 @@ http://jsfiddle.net/msg425/41Labsxj/8/
 
 ### d.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/x72bGpL.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/14/
 
 ### e.
 
@@ -94,6 +94,6 @@ http://jsfiddle.net/msg425/41Labsxj/11/
 
 ### g.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/Q5eyxIb.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/13/
