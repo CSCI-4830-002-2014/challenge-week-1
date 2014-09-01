@@ -49,7 +49,7 @@ By using D3 we can create an external data file. This seperates the chart implem
 
 ## Challenge 1 (5 points)
 
-![image](http://imgur.com/aOrjubv?raw=true)
+http://imgur.com/aOrjubv
 
 [JSFiddle Link](http://jsfiddle.net/dano8957/4ubpyk32/)
 
@@ -57,27 +57,23 @@ By using D3 we can create an external data file. This seperates the chart implem
 
 ### a. 
 
-![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/dano8957/d9hwn7L6/)
 
 ### b.
 
-![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/dano8957/h4vmc156/)
 
 ### c.
 
-![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/dano8957/4hs6zf4o/)
 
 ### d.
 
-![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/dano8957/den3fqy8/)
 
 ### e.
 
