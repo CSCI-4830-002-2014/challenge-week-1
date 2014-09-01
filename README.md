@@ -59,19 +59,19 @@ http://jsfiddle.net/msg425/41Labsxj/1/
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/7/
 
 ### b.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/6/
 
 ### c.
 
 ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/8/
 
 ### d.
 
