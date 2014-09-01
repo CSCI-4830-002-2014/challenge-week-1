@@ -16,21 +16,21 @@ The real promise of big data: It’s changing the whole way humans will solve pr
 
 ## Checkpoint 1 (10 points)
 
-![Imgur](http://i.imgur.com/aZar6qq.png)
+[Imgur](http://i.imgur.com/aZar6qq.png)
 
 ## Checkpoint 2 (10 points)
 
-![Imgur](http://i.imgur.com/WwJ6H8b)
+[Imgur](http://i.imgur.com/WwJ6H8b)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![Imgur](http://i.imgur.com/dgTmiEQ)
+[Imgur](http://i.imgur.com/dgTmiEQ)
 
 ## Checkpoint 2 (10 points)
 
-![Imgur](http://i.imgur.com/3Wyogai)
+[Imgur](http://i.imgur.com/3Wyogai)
 
 ## Study Questions (5 points x 3 = 15 points)
 
@@ -49,7 +49,7 @@ The 'type' argument helps us specify whether the data type is a string, or a num
 
 ## Challenge 1 (5 points)
 
-![Imgur](http://i.imgur.com/91kCsrE.png)
+[Imgur](http://i.imgur.com/91kCsrE.png)
 
 http://jsfiddle.net/msg425/41Labsxj/1/
 
