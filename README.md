@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Austin Wood
 
 # How many points have you earned?
 
@@ -10,90 +10,91 @@ write-your-name
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[CU-Boulder researchers tackling group recommendations through SocialDining app](http://bit.ly/1pFoDjj)
 
 # Splunk
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![checkpoint 1](images/splunk_cp1.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![checkpoint 2](images/splunk_cp2.png?raw=true)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
 ## Study Questions (5 points x 3 = 15 points)
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+  fill-in-your-answer
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+  fill-in-your-answer
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+  fill-in-your-answer
 
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+  [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
-### a. 
+### a.
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+  [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 ### b.
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+  [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 ### c.
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+  [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 ### d.
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+  [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 ### e.
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+  [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 ### f.
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+  [JSFiddle Link](http://jsfiddle.net/replace-this-path)
 
 
 ### g.
 
-![image](image.png?raw=true)
+  ![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+  [JSFiddle Link](http://jsfiddle.net/replace-this-path)
+
