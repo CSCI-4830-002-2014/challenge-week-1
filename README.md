@@ -4,7 +4,7 @@ Niklas Fejes
 
 # How many points have you earned?
 
-40/100
+45/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -36,15 +36,15 @@ Niklas Fejes
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+If the headings `name` and `value` changes to `firstname` and `count`, any reference to `d.vale` must be changed to `d.count`. The property `name` is not used in the code, but if was it would need to change too. 
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+With D3 we have full control over what is displayed and not. With D3 we can also specify external data sources so that we can make the same charts for different data sets without changing the code or manually updating the data.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+The `type` argument is a function that modifies the data before it is used. In this code it makes sure that the property `value` is a number and not a string.
 
 
 ## Challenge 1 (5 points)
