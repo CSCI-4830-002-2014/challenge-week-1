@@ -73,13 +73,13 @@ The type function assures that the numbers are being read in as numbers as inste
 
 ### d.
 
-![image](http://imgur.com/WwPqoT0.png)
+![image](http://imgur.com/MsB2BXS.png)
 
 [JSFiddle Link](http://jsfiddle.net/ufd0yh76/1/)
 
 ### e.
 
-![image](http://imgur.com/WwPqoT0.png)
+![image](http://imgur.com/bbD4QgD.png)
 
 [JSFiddle Link](http://jsfiddle.net/ufd0yh76/2/)
 
