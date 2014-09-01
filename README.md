@@ -1,99 +1,99 @@
 # Name
 
-write-your-name
+Manpreet Singh
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+The real promise of big data: It’s changing the whole way humans will solve problems http://venturebeat.com/2014/02/09/the-real-promise-of-big-data-its-changing-the-whole-way-humans-will-solve-problems/
 
 # Splunk
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/aZar6qq.png)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/WwJ6H8b)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/dgTmiEQ)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/3Wyogai)
 
 ## Study Questions (5 points x 3 = 15 points)
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+If the data's headings read differently, the code would need modifications in order to work correctly. Wherever we had referenced the 'values' in the code using 'd.value', we would intead need to reference 'd.count'.
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+The advantage of using D3 over Excel is AUTOMATION: we can create a program using D3 that analyses and visualizes data for us, and we do not have to worry about the type or size etc. of the data set. If we have a new data set, we can simply edit the data source, and expect our program to do everything else for us.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+The 'type' argument helps us specify whether the data type is a string, or a number etc.
 
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/91kCsrE.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/1/
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
 ### a. 
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/bfZi3HS.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/7/
 
 ### b.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/B0b1uYV)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/6/
 
 ### c.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/ArEPWDs)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/8/
 
 ### d.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/x72bGpL.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/14/
 
 ### e.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/qomyPKb.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/10/
 
 ### f.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/Uih0zqb.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/11/
 
 
 ### g.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/Q5eyxIb.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/13/
