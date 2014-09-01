@@ -49,9 +49,9 @@ The 'type' argument helps us specify whether the data type is a string, or a num
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![Imgur](http://i.imgur.com/91kCsrE.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/1/
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
