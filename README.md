@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Jake White
 
 # How many points have you earned?
 
@@ -10,7 +10,7 @@ write-your-name
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[How Big Data Could Help Prevent the Next Ferguson](http://mashable.com/2014/08/31/ibm-watson-ferguson/)
 
 # Splunk
 
@@ -26,7 +26,7 @@ write-your-name
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image]http://i.imgur.com/d27njjW.png)
 
 ## Checkpoint 2 (10 points)
 
