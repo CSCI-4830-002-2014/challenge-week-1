@@ -4,7 +4,7 @@ Manpreet Singh
 
 # How many points have you earned?
 
-80/100
+85/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -87,9 +87,9 @@ http://jsfiddle.net/msg425/41Labsxj/10/
 
 ### f.
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/Uih0zqb.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+http://jsfiddle.net/msg425/41Labsxj/11/
 
 
 ### g.
