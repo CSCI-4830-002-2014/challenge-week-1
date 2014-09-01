@@ -16,21 +16,21 @@ The real promise of big data: It’s changing the whole way humans will solve pr
 
 ## Checkpoint 1 (10 points)
 
-http://imgur.com/aZar6qq
+[Imgur](http://i.imgur.com/aZar6qq.png)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/WwJ6H8b)
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/dgTmiEQ)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/3Wyogai)
 
 ## Study Questions (5 points x 3 = 15 points)
 
