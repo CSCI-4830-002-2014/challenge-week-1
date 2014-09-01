@@ -4,7 +4,7 @@ Daniel Nolan
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -77,19 +77,15 @@ http://imgur.com/aOrjubv
 
 ### e.
 
-![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/dano8957/jzbr514b/)
 
 ### f.
 
-![image](image.png?raw=true)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/dano8957/2m851fse/)
 
 
 ### g.
 
-![image](image.png?raw=true)
-
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/dano8957/ues5jnyo/)
