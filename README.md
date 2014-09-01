@@ -49,9 +49,9 @@ By using D3 we can create an external data file. This seperates the chart implem
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+http://imgur.com/aOrjubv
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/dano8957/4ubpyk32/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
