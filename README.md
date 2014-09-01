@@ -20,31 +20,31 @@ http://imgur.com/mC2uo08
 
 ## Checkpoint 2 (10 points)
 
-![ttp://imgur.com/uMgA59z](image.png?raw=true)
+http://imgur.com/uMgA59z
 
 # D3
 
 ## Checkpoint 1 (10 points)
 
-![http://imgur.com/dGtbNPi](image.png?raw=true)
+http://imgur.com/dGtbNPi
 
 ## Checkpoint 2 (10 points)
 
-![http://imgur.com/GDJw5Rp](image.png?raw=true)
+http://imgur.com/GDJw5Rp
 
 ## Study Questions (5 points x 3 = 15 points)
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+The graph will not be output if you have firstname set in the data. You would have to change the var data section to firstname :" " for each datapoint to make the data accept "firstname". Also, the TSV file is set to "value" so we would have to change all d.value's to d.count since that is what would have to be accessed. 
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+By using D3 we can create an external data file. This seperates the chart implementation from its data, making it easier to reuse on multiple datasets or live data that changes over time. Using a TSV can export Excel files which creates descriptive name columns, etc., that we can use in a web browser. Using D3 converts Excel files into a JavaScript tesxt that is usable on web pages. Chain methods also help do multiple actions at the same time.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+"Type" in the code line is a function that parses and converts types in order to handle data better. D3 cannot parse without the type portion of the code in that line. This is a vital piece to making the graph display. 
 
 
 ## Challenge 1 (5 points)
