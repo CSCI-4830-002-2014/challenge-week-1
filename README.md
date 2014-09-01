@@ -36,15 +36,15 @@ The real promise of big data: It’s changing the whole way humans will solve pr
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+If the data's headings read differently, the code would need modifications in order to work correctly. Wherever we had referenced the 'values' in the code using 'd.value', we would intead need to reference 'd.count'.
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+The advantage of using D3 over Excel is AUTOMATION: we can create a program using D3 that analyses and visualizes data for us, and we do not have to worry about the type or size etc. of the data set. If we have a new data set, we can simply edit the data source, and expect our program to do everything else for us.
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+The 'type' argument helps us specify whether the data type is a string, or a number etc.
 
 
 ## Challenge 1 (5 points)
