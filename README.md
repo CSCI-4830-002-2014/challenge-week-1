@@ -4,9 +4,7 @@ Niklas Fejes
 
 # How many points have you earned?
 
-45/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+95/100
 
 # Show and tell (5 points)
 
@@ -56,39 +54,25 @@ This is important because operations on the variables (like `+` and `max()`) giv
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
-(Since the instructions only says record the URLs, the images are not included)
+(Since the instructions only says record the URLs, screenshots are not included)
 
 ### a. (Thinner bars)
-
-
 [JSFiddle Link](http://jsfiddle.net/jpn3tzms/1/)
 
 ### b. (Thinner, spaced out)
-
-
 [JSFiddle Link](http://jsfiddle.net/jpn3tzms/2/)
 
 ### c. (Right align text)
-
-
 [JSFiddle Link](http://jsfiddle.net/jpn3tzms/3/)
 
 ### d. (Right align bars)
-
-
 [JSFiddle Link](http://jsfiddle.net/jpn3tzms/4/)
 
 ### e. (Background)
-
-
 [JSFiddle Link](http://jsfiddle.net/jpn3tzms/5/)
 
 ### f. (Income)
-
-
 [JSFiddle Link](http://jsfiddle.net/jpn3tzms/6/)
 
-### g.
-
-
+### g. (Opacity)
 [JSFiddle Link](http://jsfiddle.net/jpn3tzms/7/)
