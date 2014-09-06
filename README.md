@@ -4,7 +4,7 @@ Ryan Roden
 
 # How many points have you earned?
 
-45/100
+50/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -36,7 +36,7 @@ Ryan Roden
 
 ### Q1. (5 points)
 
-fill-in-your-answer
+Anywhere where you used d.value would be replaced with d.count
 
 ### Q2. (5 points)
 
