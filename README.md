@@ -81,19 +81,19 @@ by specifying this optional accessor function, it allows us to coerce the string
 
 ### e.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/vLImFPA.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p2cksgp3/6/)
 
 ### f.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/T1bfxmK.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p2cksgp3/7/)
 
 
 ### g.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/7CPldLG.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p2cksgp3/7/)
