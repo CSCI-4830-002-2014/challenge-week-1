@@ -57,21 +57,21 @@ by specifying this optional accessor function, it allows us to coerce the string
 
 ### a. 
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/UnquxOH.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p2cksgp3/1/)
 
 ### b.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/eoFTS8C.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p2cksgp3/2/)
 
 ### c.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/cSxk6wn.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p2cksgp3/4/)
 
 ### d.
 
