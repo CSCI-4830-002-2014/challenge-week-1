@@ -40,18 +40,18 @@ Anywhere where you used d.value would be replaced with d.count
 
 ### Q2. (5 points)
 
-fill-in-your-answer
+While a bar chart certainly does not require d3, it is a good intro to a library that offers VERY extensive graphics options
 
 ### Q3. (5 points)
 
-fill-in-your-answer
+by specifying this optional accessor function, it allows us to coerce the strings returned into integers as seen at the bottom of the code.
 
 
 ## Challenge 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/BuzA06h.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p2cksgp3/)
 
 ## Challenge 2 (5 points x 7 = 35 points)
 
