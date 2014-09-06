@@ -10,7 +10,7 @@ Ryan Roden
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://www.informationweek.com/big-data/big-data-analytics/ibm-watson-speeds-drug-research/d/d-id/1306783?)
+[IBM Watson Speeds Drug Research](http://www.informationweek.com/big-data/big-data-analytics/ibm-watson-speeds-drug-research/d/d-id/1306783?)
 
 # Splunk
 
