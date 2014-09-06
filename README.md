@@ -4,13 +4,13 @@ Ryan Roden
 
 # How many points have you earned?
 
-0/100
+45/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[title-of-the-article](http://www.informationweek.com/big-data/big-data-analytics/ibm-watson-speeds-drug-research/d/d-id/1306783?)
 
 # Splunk
 
@@ -26,11 +26,11 @@ Ryan Roden
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/dUyG3Qy.png)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/5MFEvEb.png)
 
 ## Study Questions (5 points x 3 = 15 points)
 
