@@ -75,9 +75,9 @@ by specifying this optional accessor function, it allows us to coerce the string
 
 ### d.
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/UnwRYDD.png)
 
-[JSFiddle Link](http://jsfiddle.net/replace-this-path)
+[JSFiddle Link](http://jsfiddle.net/p2cksgp3/5/)
 
 ### e.
 
