@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Sam Korn
 
 # How many points have you earned?
 
@@ -10,7 +10,8 @@ write-your-name
 
 # Show and tell (5 points)
 
-[title-of-the-article](http://link-to-an-interesting-news-article-about-big-data)
+[The Breakthrough Technology That Will Turbocharge Big Data And Cloud Computing](http://www.forbes.com/sites/oracle/2014/09/12/the-breakthrough-technology-that-will-turbocharge-big-data-and-cloud-computing/)
+This article is about incorporating "Software in Silicon" in order to make processors that speed up databases/servers. This allows for offloading functions like sorts, searches, etc. to the hardware in order to dramatically speed up database operations.
 
 # Splunk
 
