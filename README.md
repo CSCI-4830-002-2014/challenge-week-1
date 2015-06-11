@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Jose Vieitez
 
 # How many points have you earned?
 
