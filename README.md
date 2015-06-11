@@ -16,11 +16,11 @@ Jose Vieitez
 
 ## Checkpoint 1 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/XvngPkA.png?raw=true)
 
 ## Checkpoint 2 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/TKEh4aU.png?raw=true)
 
 # D3
 
